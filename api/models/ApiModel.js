@@ -1,4 +1,4 @@
-const CALL_API = true;
+const CALL_API = false;
 const API_URL = "https://api.cryptonator.com/api/ticker/";
 
 //For Testing
