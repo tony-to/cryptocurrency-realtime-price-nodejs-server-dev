@@ -4,4 +4,5 @@ module.exports = function(app) {
 
   app.route('/pairs/:pair_id')
     .get(CurrencyApi.read_a_pair)
+
 };
